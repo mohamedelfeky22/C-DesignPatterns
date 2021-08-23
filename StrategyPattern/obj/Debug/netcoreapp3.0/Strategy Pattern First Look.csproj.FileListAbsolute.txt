@@ -1,0 +1,13 @@
+F:\Projects\Strategy Pattern\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.exe
+F:\Projects\Strategy Pattern\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.deps.json
+F:\Projects\Strategy Pattern\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.runtimeconfig.json
+F:\Projects\Strategy Pattern\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.runtimeconfig.dev.json
+F:\Projects\Strategy Pattern\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.dll
+F:\Projects\Strategy Pattern\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.pdb
+F:\Projects\Strategy Pattern\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.csprojAssemblyReference.cache
+F:\Projects\Strategy Pattern\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfoInputs.cache
+F:\Projects\Strategy Pattern\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfo.cs
+F:\Projects\Strategy Pattern\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.csproj.CoreCompileInputs.cache
+F:\Projects\Strategy Pattern\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.dll
+F:\Projects\Strategy Pattern\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.pdb
+F:\Projects\Strategy Pattern\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.genruntimeconfig.cache
