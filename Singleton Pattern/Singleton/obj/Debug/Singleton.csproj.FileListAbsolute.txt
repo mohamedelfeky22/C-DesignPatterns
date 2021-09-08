@@ -1,0 +1,14 @@
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\Singleton\bin\Debug\Singleton.exe.config
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\Singleton\bin\Debug\Singleton.exe
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\Singleton\bin\Debug\Singleton.pdb
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\Singleton\obj\Debug\Singleton.exe
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\Singleton\obj\Debug\Singleton.pdb
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\bin\Debug\Singleton.exe.config
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\bin\Debug\Singleton.exe
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\bin\Debug\Singleton.pdb
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\obj\Debug\Singleton.exe
+F:\ProjectG\C-DesignPatterns\Singleton Pattern\Singleton\obj\Debug\Singleton.pdb
